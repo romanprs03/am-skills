@@ -169,7 +169,7 @@ Every visual execution must operate within the approved color palette, typograph
 
 | Register | Emotional Target | Visual Signals |
 |---|---|---|
-| **High-Performance / Sports** | Conviction, precision, earned superiority | High contrast, sharp shadows, extreme close-ups, monochromatic base with one accent |
+| **High-Performance / Sports** | Conviction, precision, earned superiority | High contrast, sharp shadows, extreme close-ups, low-angle below-knee dynamics, urban backgrounds legible never focal, monochromatic base with one accent; natural daylight acceptable when contrast is preserved |
 | **Emotional / SMB / Social** | Recognition, warmth, trust | Cinematic realism, warm ambient light, shallow depth of field, human-centered framing |
 | **Creative / Brand Identity** | Intrigue, authenticity, edge | Dark backgrounds, bold typography, conceptual iconography, texture overlays |
 | **Institutional / Corporate** | Confidence, clarity, authority | White space, clean grids, structured layouts, no texture |
@@ -193,6 +193,16 @@ The human protagonist must always be the sharpest, most prominent element in the
 3. Full product in context (in use, in motion)
 4. Full product isolated (clean background)
 Never skip to step 4 first.
+
+**Low-Angle Detail Priority (Sports Footwear)**
+For footwear action content in the sports/urban register, shoot from a low angle below knee height and compose with diagonal body lines; keep the shoe centered only in Fragment (1) and Partial view (2) stages with the background slightly defocused and legible. When the torso or face enters frame, reassert the human protagonist by shifting the product to a secondary zone.
+> Derived from: Mizuno Argentina — Social/Launch content — 2024–2025
+> Example: Low-angle urban stretch with outsole detail; athlete implied, city legible.
+
+**Daylight and Series Consistency (Sports Footwear)**
+Prefer natural daylight for outdoor training pieces and preserve high-contrast modeling on the product; avoid flat overcast or mixed color temperatures that wash detail. Lock camera height and angle across a series in 9:16 to read as one system, then adapt to 1:1 and 16:9 without breaking the angle logic.
+> Derived from: Mizuno Argentina — Social/Launch content — 2024–2025
+> Example: Consistent below-knee angle across a 5-asset set; daylight hardness matched for continuity.
 
 **Video Pacing Rules:**
 - Duration: 15 seconds default for all social formats.
@@ -283,6 +293,7 @@ A piece is not finished until it passes every item:
 - [ ] Text and image do not compete in the same spatial zone
 - [ ] Color palette is consistent with the approved brand guidelines for this client
 - [ ] Human protagonist is the most prominent element; brand/product is secondary
+- [ ] If sports footwear/action: angle, focus, and background follow 3.3 "Low-Angle Detail Priority" and "Daylight and Series Consistency"
 - [ ] Asset exported in all required formats
 
 **Strategic:**
