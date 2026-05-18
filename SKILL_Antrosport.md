@@ -44,14 +44,7 @@ Maintain a visionary and informative tone, focused on solution-oriented, founder
 
 ## 4. VISUAL IDENTITY — How to Look
 
-**Block A — Palette:**  
-- Navy (#252C61) — Use as base color for all compositions, backgrounds, and typography anchors.  
-- Red (#CC112C) — Use exclusively as accent color for calls to action; never use as background.  
-- Deep Forest Green (approx. #1B3A29) — Use on Instagram posts to convey growth, calm, and order, especially in progress timelines; never as full background.  
-- High-Saturation Green (approx. #00A651) — Use on YouTube thumbnails and visuals to signal wellness and energy; avoid using on text to maintain readability.  
-- Clean White (#FFFFFF) — Use as main background for high legibility and low visual friction in digital assets.
-
-**Block B — Composition Rules:**  
+**Composition Rules:**  
 When designing YouTube thumbnails → use a simplified hierarchy: Logo first, supporting text second, and CTA last to optimize scanning at small sizes.  
 When creating Instagram posts → emphasize progress-first scanning via clear month-to-month timelines or stark before/after contrasts.  
 When assembling LinkedIn visuals → prioritize clarity and completeness; avoid overcrowding and focus on professional, text-forward layouts.  
